@@ -5,7 +5,6 @@ import Navbar from './components/navbar/Navbar';
 import ProductList from './components/productList/ProductList';
 import { Routes, Route, Link } from "react-router-dom";
 
-
 function App() {
   return (
     <div className="App">
