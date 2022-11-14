@@ -3,7 +3,8 @@ import Blog from './components/blog/Blog';
 import Mulai from './components/intro/Mulai';
 import Navbar from './components/navbar/Navbar';
 import ProductList from './components/productList/ProductList';
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+
 
 function App() {
   return (
